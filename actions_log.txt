@@ -1,0 +1,48 @@
+Browser Extension Security Audit — Actions Log
+
+Date: 30-Oct-2025
+Browser: Google Chrome
+Task: Identify and Remove Suspicious Browser Extensions
+
+------------------------------------------------------------
+1. Opened Chrome Extension Manager:
+   → URL: chrome://extensions/
+
+2. Reviewed all installed extensions:
+   - 360 Internet Protection
+   - WPS PDF – Read, Edit, Fill, Convert, and AI Chat PDF with Ease
+   - McAfee WebAdvisor
+   - Google Docs Offline
+
+3. Checked permissions and details for each extension:
+   - 360 Internet Protection → High permissions (read/change data on all sites)
+   - WPS PDF → High permissions, unnecessary
+   - McAfee WebAdvisor → Safe, from official vendor
+   - Google Docs Offline → Safe, Google-owned
+
+4. Identified suspicious or unused extensions:
+   - 360 Internet Protection (unknown publisher)
+   - WPS PDF (duplicate function, unnecessary)
+
+5. Actions taken:
+   - Removed: 360 Internet Protection
+   - Removed: WPS PDF
+   - Kept: McAfee WebAdvisor, Google Docs Offline
+
+6. Restarted the browser:
+   - Verified that removed extensions no longer appear
+   - Confirmed improved performance and reduced memory usage
+
+7. Final verification:
+   - Only trusted extensions remain
+   - No unusual pop-ups or redirects observed
+
+------------------------------------------------------------
+Result:
+
+- Two suspicious extensions removed.
+- Browser runs faster and safer.
+- Gained understanding of how malicious extensions can exploit permissions.
+
+End of Log
+------------------------------------------------------------

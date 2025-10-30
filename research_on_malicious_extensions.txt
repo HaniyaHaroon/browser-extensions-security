@@ -1,0 +1,50 @@
+Research on Malicious Browser Extensions
+
+Date: 30-Oct-2025
+Topic: How malicious browser extensions can harm users
+
+------------------------------------------------------------
+1. Data Theft and Privacy Invasion
+   - Some extensions secretly collect browsing history, search terms, and personal data.
+   - This data can be sold to advertisers or attackers without user consent.
+
+2. Phishing and Redirects
+   - Malicious extensions can alter webpage content or inject fake login pages.
+   - Users may be redirected to phishing sites that steal credentials.
+
+3. Ad Injection and Pop-ups
+   - Unwanted ads, pop-ups, and banners are often added by malicious extensions.
+   - These can degrade browser performance and trick users into downloading malware.
+
+4. Browser Hijacking
+   - Extensions can change the default homepage or search engine without permission.
+   - They can force users into visiting affiliate or malicious sites.
+
+5. System Resource Misuse
+   - Some extensions run hidden background scripts consuming CPU and memory.
+   - A few are even used for cryptocurrency mining without the user’s knowledge.
+
+6. Security Bypass
+   - Attackers can use extensions to disable built-in browser security features.
+   - Example: Turning off Safe Browsing or blocking security warnings.
+
+7. Unauthorized Remote Control
+   - Poorly coded or compromised extensions can be remotely controlled by hackers.
+   - This allows attackers to execute arbitrary scripts in the user’s browser.
+
+------------------------------------------------------------
+Preventive Measures:
+
+- Only install extensions from verified developers or official stores.
+- Regularly review permissions and remove unused extensions.
+- Keep browser and security software up to date.
+- Avoid downloading extensions from unknown websites.
+
+------------------------------------------------------------
+Conclusion:
+
+Malicious browser extensions pose serious privacy and security risks.
+A regular audit of installed extensions is one of the simplest and most effective ways to maintain a secure browsing environment.
+
+End of File
+------------------------------------------------------------
